@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://newzone.top/sitemap.xml
+Sitemap: https://super-aviator.github.io/sitemap.xml
