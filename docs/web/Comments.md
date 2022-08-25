@@ -46,3 +46,5 @@ Gitalk 缺点：
 
 - 每次有新页面时，都需要登录 github 初始化评论区。
 - 域名不能改变，Homepage URL 和 Authorization callback URL 需与你的 Gitalk 页面一致，否则页面会报错，提示初始化，无法登录 github。
+
+![](./images/p559631634.webp)
